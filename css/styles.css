@@ -26,6 +26,9 @@ body {
   text-decoration: none;
   color: #2e2f42;
 }
+.logo-span {
+  color: #2e2f42;
+}
 .logo {
   font-family: Raleway, sans-serif;
   font-style: normal;
