@@ -14,21 +14,6 @@ body {
   background-color: #ffffff;
 }
 /* HEADER */
-
-.logo > span {
-  font-style: normal;
-  font-weight: 800;
-  font-size: 18px;
-  line-height: 1.17px;
-
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  text-decoration: none;
-  color: #2e2f42;
-}
-.logo-span {
-  color: #2e2f42;
-}
 .logo {
   font-family: Raleway, sans-serif;
   font-style: normal;
@@ -41,6 +26,11 @@ body {
   text-decoration: none;
   color: var(--logo-color);
 }
+
+.logo-span {
+  color: #2e2f42;
+}
+
 .link {
   text-decoration: none;
   color: #2e2f42;
@@ -116,7 +106,9 @@ body {
 .button:focus {
   background-color: var(--ocean-color);
 }
-
+.smth-items {
+  list-style-type: none;
+}
 .third-title {
   font-weight: 500;
   font-size: 20px;
@@ -228,4 +220,7 @@ body {
 .cards > li {
   list-style-type: none;
   list-style: none;
+}
+.list-img {
+  background-color: var(--white-color);
 }
