@@ -121,6 +121,10 @@ body {
 }
 .third-title {
   color: var(--grey-color);
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 .smth-paragraph {
   font-size: 16px;
