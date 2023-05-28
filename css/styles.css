@@ -220,6 +220,7 @@ body {
   /* identical to box height, or 120% */
 
   letter-spacing: 0.02em;
+  color: var(--grey-color);
 }
 
 .cards > li {
