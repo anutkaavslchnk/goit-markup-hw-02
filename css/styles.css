@@ -63,6 +63,7 @@ body {
 }
 .list {
   list-style-type: none;
+  list-style: none;
 }
 .address-items {
   font-style: normal;
@@ -187,7 +188,7 @@ body {
 }
 /* PAGE NUMBER 2 */
 .btn-items {
-  font-family: inherit;
+  font-family: Roboto, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
