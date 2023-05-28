@@ -27,7 +27,7 @@ body {
   color: var(--logo-color);
 }
 
-.logo > span {
+.span {
   font-family: Raleway, sans-serif;
   font-style: normal;
   font-weight: 800;
